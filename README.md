@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saul Ruiz Jr.</h1>
+<h1 align="center">Hi, I'm Saul.</h1>
 <h3 align="center">CS student at CSUF</h3>
 
 - 🔭 I’m currently working on **bettering my skills**
