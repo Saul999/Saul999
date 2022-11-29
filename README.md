@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Saul.</h1>
 <h3 align="center">CS student at CSUF</h3>
 
-- I’m currently working on **bettering my skills**
-
 - How to reach me **Sauljr385@gmail.com**
 
-- My Second GitHub is **@https://github.com/Saul385** where all my school projects are.
+- My Second GitHub is **@https://github.com/Saul385** where all most school projects are.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
