@@ -3,7 +3,6 @@
 
 - How to reach me **Sauljr385@gmail.com**
 
-- My Second GitHub is **@https://github.com/Saul385** where all most school projects are.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
