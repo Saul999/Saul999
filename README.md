@@ -2,7 +2,7 @@
 <h3 align="center">CS student at CSUF</h3>
 
 - How to reach me **Sauljr385@gmail.com**
-- Other github @Saul385
+- Other github https://github.com/Saul385
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
