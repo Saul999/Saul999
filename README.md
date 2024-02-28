@@ -13,7 +13,7 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=saul999&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: holi)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=saul999&show_icons=true"
@@ -22,4 +22,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=saul999&show_icons=true" />
 </picture>
 
-[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=saul999&layout=pie)](https://github.com/saul999/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul999&layout=pie)](https://github.com/saul999/github-readme-stats)
