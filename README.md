@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saul999&label=Profile%20views&color=0e75b6&style=flat" alt="saul999" /> </p>
 
-- 🔭 I’m currently working on **The JuiceHUB**
+- Currently working on **The JuiceHUB**
 
-- 🌱 I’m currently learning **Typescript**
+- Other Github @ Saul385
 
-- 👨‍💻 All of my projects are available at [https://saul999.github.io/](https://saul999.github.io/)
+- Portfolio Website: [https://saul999.github.io/](https://saul999.github.io/)
 
-- 📫 How to reach me **sauljr385@gmail.com**
+- Email: **sauljr385@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
