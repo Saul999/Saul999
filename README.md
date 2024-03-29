@@ -7,7 +7,7 @@
 
 - Other Github @ Saul385
 
-  - [Portfolio](https://saulport.netlify.app/)
+- [Portfolio](https://saulport.netlify.app/)
 
 - Email: **sauljr385@gmail.com**
 
