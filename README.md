@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saul999&label=Profile%20views&color=0e75b6&style=flat" alt="saul999" /> </p>
 
-- currently learning .net
+- currently learning
 
 - Other Github @ Saul385
 
